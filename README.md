@@ -1,7 +1,7 @@
 # 📘 Experiment No. 6 – Prompt Engineering
 
-**📅 Date:**  
-**🆔 Register No.:**  
+**📅 Date:**  02/05/2025
+**🆔 Register No.:**  :212222040145
 
 ---
 
